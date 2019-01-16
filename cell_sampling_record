@@ -1,0 +1,114 @@
+
+
+1/36 C9_R loading done: 0h-0m-6s
+droped by too few gene:68| mito:2|2
+cell passed filtering: 321 | cell selected for downstream: 321 (100%)
+2/36 C12_pBMC loading done: 0h-0m-11s
+droped by too few gene:29| mito:0|0
+cell passed filtering: 1607 | cell selected for downstream: 1607 (100%)
+3/36 C12_R loading done: 0h-0m-15s
+droped by too few gene:129| mito:2|2
+cell passed filtering: 1911 | cell selected for downstream: 1911 (100%)
+4/36 C16_pBMC loading done: 0h-0m-33s
+droped by too few gene:73| mito:4|0
+cell passed filtering: 12222 | cell selected for downstream: 3536 (28.9%)
+5/36 C16_R loading done: 0h-0m-40s
+droped by too few gene:2625| mito:20|1
+cell passed filtering: 9151 | cell selected for downstream: 2412 (26.4%)
+6/36 U4_pBMC loading done: 0h-0m-49s
+droped by too few gene:264| mito:1|2
+cell passed filtering: 10908 | cell selected for downstream: 3364 (30.8%)
+7/36 U4_R loading done: 0h-0m-55s
+droped by too few gene:116| mito:4|2
+cell passed filtering: 4491 | cell selected for downstream: 2577 (57.4%)
+8/36 U5_pBMC loading done: 0h-1m-2s
+droped by too few gene:1203| mito:0|2
+cell passed filtering: 8801 | cell selected for downstream: 3104 (35.3%)
+9/36 U5_R loading done: 0h-1m-9s
+droped by too few gene:2134| mito:5|0
+cell passed filtering: 6135 | cell selected for downstream: 2417 (39.4%)
+10/36 U34_pBMC loading done: 0h-1m-21s
+droped by too few gene:126| mito:3|0
+cell passed filtering: 9952 | cell selected for downstream: 3806 (38.2%)
+11/36 U34_R loading done: 0h-1m-27s
+droped by too few gene:1409| mito:5|4
+cell passed filtering: 5011 | cell selected for downstream: 3052 (60.9%)
+12/36 U35_pBMC loading done: 0h-1m-36s
+droped by too few gene:2429| mito:9|0
+cell passed filtering: 12064 | cell selected for downstream: 3435 (28.5%)
+13/36 U35_R loading done: 0h-1m-42s
+droped by too few gene:269| mito:19|13
+cell passed filtering: 6531 | cell selected for downstream: 2786 (42.7%)
+14/36 U41_pBMC loading done: 0h-1m-48s
+droped by too few gene:255| mito:0|8
+cell passed filtering: 7535 | cell selected for downstream: 3374 (44.8%)
+15/36 U41_R loading done: 0h-1m-56s
+droped by too few gene:434| mito:9|1
+cell passed filtering: 6023 | cell selected for downstream: 2369 (39.3%)
+16/36 U44_pBMC loading done: 0h-2m-7s
+droped by too few gene:995| mito:1|0
+cell passed filtering: 12878 | cell selected for downstream: 3895 (30.2%)
+17/36 U44_R loading done: 0h-2m-13s
+droped by too few gene:675| mito:7|4
+cell passed filtering: 7231 | cell selected for downstream: 3039 (42%)
+18/36 U45_pBMC loading done: 0h-2m-24s
+droped by too few gene:1025| mito:2|1
+cell passed filtering: 12280 | cell selected for downstream: 3362 (27.4%)
+19/36 U45_R loading done: 0h-2m-30s
+droped by too few gene:1741| mito:11|8
+cell passed filtering: 7426 | cell selected for downstream: 2402 (32.3%)
+20/36 C17_pBMC loading done: 0h-2m-35s
+droped by too few gene:16| mito:57|0
+cell passed filtering: 2575 | cell selected for downstream: 2208 (85.7%)
+21/36 C17_R loading done: 0h-2m-37s
+droped by too few gene:36| mito:18|0
+cell passed filtering: 1028 | cell selected for downstream: 1028 (100%)
+22/36 C17_I loading done: 0h-2m-39s
+droped by too few gene:31| mito:12|0
+cell passed filtering: 617 | cell selected for downstream: 617 (100%)
+23/36 C18_pBMC loading done: 0h-2m-41s
+droped by too few gene:39| mito:25|0
+cell passed filtering: 1163 | cell selected for downstream: 1163 (100%)
+24/36 C18_R loading done: 0h-2m-44s
+droped by too few gene:32| mito:17|1
+cell passed filtering: 997 | cell selected for downstream: 997 (100%)
+25/36 C18_I loading done: 0h-2m-46s
+droped by too few gene:37| mito:24|0
+cell passed filtering: 1132 | cell selected for downstream: 1132 (100%)
+26/36 C19_pBMC loading done: 0h-2m-57s
+droped by too few gene:110| mito:4|4
+cell passed filtering: 8326 | cell selected for downstream: 3517 (42.2%)
+27/36 C19_R loading done: 0h-3m-2s
+droped by too few gene:968| mito:0|2
+cell passed filtering: 6264 | cell selected for downstream: 2580 (41.2%)
+28/36 C19_I loading done: 0h-3m-9s
+droped by too few gene:519| mito:2|0
+cell passed filtering: 9366 | cell selected for downstream: 3036 (32.4%)
+29/36 C21_pBMC loading done: 0h-3m-11s
+droped by too few gene:49| mito:1|0
+cell passed filtering: 840 | cell selected for downstream: 840 (100%)
+30/36 C21_R loading done: 0h-3m-15s
+droped by too few gene:161| mito:2|1
+cell passed filtering: 2593 | cell selected for downstream: 2189 (84.4%)
+31/36 C21_I loading done: 0h-3m-21s
+droped by too few gene:539| mito:3|0
+cell passed filtering: 9510 | cell selected for downstream: 2600 (27.3%)
+32/36 C30_pBMC loading done: 0h-3m-23s
+droped by too few gene:5| mito:1|0
+cell passed filtering: 896 | cell selected for downstream: 896 (100%)
+33/36 C30_R loading done: 0h-3m-29s
+droped by too few gene:5082| mito:0|11
+cell passed filtering: 6240 | cell selected for downstream: 2074 (33.2%)
+34/36 C30_I loading done: 0h-3m-36s
+droped by too few gene:1455| mito:5|2
+cell passed filtering: 8058 | cell selected for downstream: 2666 (33.1%)
+35/36 C33_pBMC loading done: 0h-3m-40s
+droped by too few gene:83| mito:0|1
+cell passed filtering: 2877 | cell selected for downstream: 2755 (95.8%)
+36/36 C33_I loading done: 0h-3m-42s
+droped by too few gene:15| mito:3|2
+cell passed filtering: 1062 | cell selected for downstream: 1062 (100%)
+
+in total: 206022 passed filtering & 84129 selected for downstream analysis
+before gene filter: 84129 cells | 33694 genes
+after gene filter: 10115 genes remain
